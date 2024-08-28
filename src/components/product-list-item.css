@@ -1,0 +1,19 @@
+.product-info {
+    display: flex;
+}
+
+.buttons-info {
+    display: flex;
+}
+
+.padding-style {
+    width: 100%;
+    margin: 20px;
+}
+
+.container {
+    width: 100%;
+    border: solid 1px black;
+    margin-top: 50px;
+    padding: 20px;
+}

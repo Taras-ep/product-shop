@@ -1,0 +1,9 @@
+.flex-style {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Shop {
+    width: 100%;
+}
